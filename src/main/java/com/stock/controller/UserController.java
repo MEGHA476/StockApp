@@ -133,7 +133,7 @@ public class UserController {
 	    public void sendemail(Long userid) throws AddressException, MessagingException {
 
 	        final String username = "meghab476@gmail.com";
-	        final String password = "9844291687";
+	        final String password = "****";
 
 	        Properties prop = new Properties();
 	        prop.put("mail.smtp.host", "smtp.gmail.com");
